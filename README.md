@@ -27,8 +27,3 @@ git branch # visualizar as branchs (inclusive a branch atual)
 
 git remote -v # visualizar os remotes.
 ```
-
-Teste de conflito 2;
-Teste de Conflito.
-Conflito concluido.
-
