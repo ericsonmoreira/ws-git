@@ -21,3 +21,5 @@ git branch NOME-DO-BRANCH # como criar uma branch local.
 
 git push origin NOME-DO-BRANCH # como dar um push usando o branch local recém criado para o remoto.
 ```
+
+Teste de Conflito.
