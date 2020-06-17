@@ -16,4 +16,8 @@ git commit -m "sua mensagem aqui" # comando de commit. Essa mensagem serve para 
 git remote add origin "url do repositório remoto aqui" # cria um "remote" do seu repositório remoto. "origin" é o nome desse remote (esse nome vc escolhe).
 
 git push -u origin master # "empurou" o commit da branch master local para a branch master remota (lembre-se do remote que criamos).
+
+git branch NOME-DO-BRANCH # como criar uma branch local.
+
+git push origin NOME-DO-BRANCH # como dar um push usando o branch local recém criado para o remoto.
 ```
