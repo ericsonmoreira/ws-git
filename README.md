@@ -1,9 +1,5 @@
 # Projeto WS-Git
 
-Primeiros passos.
-
-- [styled-componets](https://styled-components.com/).
-
 Comando inicais do git:
 
 ```bash
@@ -26,9 +22,10 @@ git checkout page_home # selecionar a branch que eu quero trabalhar
 git branch # visualizar as branchs (inclusive a branch atual)
 
 git remote -v # visualizar os remotes.
+
+git log --oneline # mostra os commit. (--oneline -> para mostrar só em uma linha).
+
+git reset # volta o commit.
+
+git config --global user.email "OUR_EMAIL" # configiração para email do user.
 ```
-
-Teste de conflito 2;
-Teste de Conflito.
-Conflito concluido.
-
