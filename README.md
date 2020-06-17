@@ -27,5 +27,7 @@ git log --oneline # mostra os commit. (--oneline -> para mostrar só em uma linh
 
 git reset # volta o commit.
 
-git config --global user.email "OUR_EMAIL" # configiração para email do user.
+git config --global user.email "OUR_EMAIL" # configiração para o email do user.
+
+git config --global user.name "OUR_NAME" # configiração para o nome do user.
 ```
