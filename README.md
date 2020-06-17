@@ -20,4 +20,10 @@ git push -u origin master # "empurou" o commit da branch master local para a bra
 git branch NOME-DO-BRANCH # como criar uma branch local.
 
 git push origin NOME-DO-BRANCH # como dar um push usando o branch local recém criado para o remoto.
+
+git checkout page_home # selecionar a branch que eu quero trabalhar
+
+git branch # visualizar as branchs (inclusive a branch atual)
+
+git remote -v # visualizar os remotes.
 ```
